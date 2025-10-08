@@ -35,7 +35,7 @@ export const projectsData: Project[] = [
     title: "Ajaib Automation 0.2",
     description: "Automasi trading dan cek riwayat saham dari ratusan akun dalam waktu singkat dengan tampilan GUI sederhana.",
     tech: ["Python"],
-    image: "../public/preview-ajaibAutomation.jpg",
+    image: "/preview-ajaibAutomation.jpg",
     color: "from-blue-500 to-cyan-500",
     link : "https://github.com/vibrush/ajaib-automation",
     status: "In Progress"

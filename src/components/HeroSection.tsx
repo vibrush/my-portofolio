@@ -57,7 +57,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ scrollToSection }) => {
         <div className="relative flex justify-center">
           <div className="absolute inset-0 bg-gradient-to-r from-indigo-400 to-purple-400 rounded-full blur-3xl opacity-30 animate-pulse"></div>
           <div className="relative w-96 h-96 bg-white/40 backdrop-blur-lg rounded-3xl border border-white/60 shadow-2xl flex items-center justify-center overflow-hidden">
-            <div className="text-9xl"><img src="../public/hero-image.png" alt="" /></div>
+            <div className="text-9xl"><img src="hero-image.png" alt="" /></div>
             <div className="absolute bottom-8 left-8 right-8 bg-white/60 backdrop-blur-md rounded-2xl p-4 border border-white/40">
               <div className="flex items-center gap-3">
                 <Shield className="w-8 h-8 text-indigo-600" />
