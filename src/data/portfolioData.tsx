@@ -44,11 +44,11 @@ export const projectsData: Project[] = [
 
 // Data Skills
 export const skillsData: Skill[] = [
-  { name: "Java", level: 90, icon: "☕" },
+  { name: "Java", level: 100, icon: "☕" },
   { name: "HTML", level: 85, icon: "🌐" },
   { name: "CSS", level: 85, icon: "🎨" },
   { name: "C++", level: 80, icon: "⚙️" },
-  { name: "Python", level: 60, icon: "🐍" },
+  { name: "Python", level: 70, icon: "🐍" },
   { name: "MSSQL", level: 80, icon: "🗄️" }
 ];
 
