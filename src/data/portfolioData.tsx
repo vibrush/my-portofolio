@@ -48,7 +48,7 @@ export const skillsData: Skill[] = [
   { name: "HTML", level: 85, icon: "🌐" },
   { name: "CSS", level: 85, icon: "🎨" },
   { name: "C++", level: 80, icon: "⚙️" },
-  { name: "Python", level: 70, icon: "🐍" },
+  { name: "Python", level: 75, icon: "🐍" },
   { name: "MSSQL", level: 80, icon: "🗄️" }
 ];
 
